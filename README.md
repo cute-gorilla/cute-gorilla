@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요반가워요 👋
+오민혁입니다
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhyuk5)](https://solved.ac/minhyuk5)
+
 
 <!--
 **cute-gorilla/cute-gorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
